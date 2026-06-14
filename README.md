@@ -38,6 +38,6 @@ This project strengthened my understanding of:
 
 ## Author
 
-Noor Almukhtar
-BSc Computer Engineering Student
-Budapest University of Technology and Economics (BME)
+* Noor Almukhtar
+* BSc Computer Engineering Student
+* Budapest University of Technology and Economics (BME)
